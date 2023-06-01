@@ -1,7 +1,7 @@
 # LottiesForBroadcast
 LottieFiles that are to be used for broadcasting. Livestreams, televisison, educational, inspiration, you name it.
 
-The jsons were made in After Effects, then exported with Bodymovin as described in repo mentioned underneath.
+The jsons were made in After Effects, then exported with Bodymovin as described in repository mentioned underneath.
 Follow the instructions in that repo to create html templates that can be played with CasparCG.
 
 I used:
