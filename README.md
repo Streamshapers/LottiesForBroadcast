@@ -9,6 +9,8 @@ I used:
 - After Effects 18.4.0
 - Bodymovin 5.9.0
 
+Can also provide my AE Project Files, just get in contact ❤️
+mail@nico-peters.com
 
 Visit the repository jdoppelp made:
 https://github.com/jdoppelp/CasparCG-Lottie-Template
