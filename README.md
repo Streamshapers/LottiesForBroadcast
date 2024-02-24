@@ -20,7 +20,7 @@ https://github.com/jdoppelp/CasparCG-Lottie-Template
 
 # BarChart 📊
 The BarChart has three bars that grow one after another.
-Change values and colors.
+Change values and colors. Defined colors are: red, orange, green, blue, lightblue, grey. If the input is invalid, the standartcolor is lightblue.
 
 ![240224_BarChart](https://github.com/PeterNicos/LottiesForBroadcast/assets/96991719/d355e7ec-3b9d-456f-83c4-5a24fe1eb82e)
 BarChart_Ver07.json
@@ -28,7 +28,7 @@ BarChart_Ver07_fontsEmbedded.json
 
 # PieChart 🔵
 The PieChart has three bars that grow one after another.
-Change values, colors and the unit.
+Change values, colors and the unit. Defined colors are: red, orange, green, blue, lightblue, grey. If the input is invalid, the standartcolor is lightblue.
 
 ![240224_PieChart](https://github.com/PeterNicos/LottiesForBroadcast/assets/96991719/5b7ba592-c5f0-4c4f-8a59-c3df42c9162c)
 PieChart_Ver06.json
