@@ -1,5 +1,5 @@
 # LottiesForBroadcast
-These are templates you can use to test here: www.converter.streamshapers.com
+These are Lottiefiles you can use as templates for CasparCG. Just convert them here: [StreamShapers Converter](https://www.converter.streamshapers.com)
 They are entirely made in After Effects and exported as json/lottie with Bodymovin.
 They can be used for broadcasting, livestreams, televisison, educational, inspiration, you name it.
 
@@ -10,7 +10,7 @@ I used:
 - After Effects 24.1.0
 - Bodymovin 5.9.0
 
-Can also provide my AE Project Files, just get in contact ❤️
+I can also provide my AE Project Files, just get in contact ❤️
 mail@nico-peters.com
 
 Visit the repository jdoppelp made:
@@ -22,32 +22,35 @@ https://github.com/jdoppelp/CasparCG-Lottie-Template
 The BarChart has three bars that grow one after another.
 Change values and colors. Defined colors are: red, orange, green, blue, lightblue, grey. If the input is invalid, the standartcolor is lightblue.
 
-![240224_BarChart](https://github.com/PeterNicos/LottiesForBroadcast/assets/96991719/d355e7ec-3b9d-456f-83c4-5a24fe1eb82e)
-BarChart_Ver07.json
-BarChart_Ver07_fontsEmbedded.json
+![BarChart1](https://github.com/Streamshapers/LottiesForBroadcast/assets/96991719/d9437848-d0be-4291-b5de-ea5729e03c90)
+BarChart_Ver08_fontsEmbedded.json
 
 # PieChart 🔵
 The PieChart has three bars that grow one after another.
 Change values, colors and the unit. Defined colors are: red, orange, green, blue, lightblue, grey. If the input is invalid, the standartcolor is lightblue.
 
-![240224_PieChart](https://github.com/PeterNicos/LottiesForBroadcast/assets/96991719/5b7ba592-c5f0-4c4f-8a59-c3df42c9162c)
-PieChart_Ver06.json
-PieChart_Ver06_fontsEmbedded.json
+![PieChart](https://github.com/Streamshapers/LottiesForBroadcast/assets/96991719/42ea9472-6370-4224-9a20-302a1e5cd128)
+PieChart_Ver08_fontsEmbedded.json
+
+# List 📝
+The List is upt to six lines of text that appear one after another.
+Change the texts and decide how many you want to see. The template will show from 1 to 6 lines. If you set the linecount to 3, the animation will no longer change once 3 lines are displayed.
+
+![List](https://github.com/Streamshapers/LottiesForBroadcast/assets/96991719/7112b83a-fd27-4c2e-bc67-12b31bd0278a)
+PieChart_Ver08_fontsEmbedded.json
 
 # LowerThird 👩‍🌾
 The Lowerthird contains a line for names and an attribute. Whatever line is longer, defines the box size.
 You can choose wether the Lowerthird should be alligned left or right.
 
-![240224_LowerThird](https://github.com/PeterNicos/LottiesForBroadcast/assets/96991719/8797eb1f-a7ea-43ff-9f03-0bc5074a93b6)
-LowerThird_Ver07.json
-LowerThird_Ver07_fontsEmbedded.json
+![LowerThird1](https://github.com/Streamshapers/LottiesForBroadcast/assets/96991719/a6d1dc63-8fe9-4d8e-9616-028454ec739c)
+LowerThird_Ver08_fontsEmbedded.json
 
 # Cornerlogo 🔥
 The Cornerlogo is a small circular logo in the top-right corner, a small tag with a short text pops out and back again.
 You can view it in light- and darkmode, the tags size is dependant on the texts length.
 
-![240224_Cornerlogo](https://github.com/PeterNicos/LottiesForBroadcast/assets/96991719/af46309b-ad51-4927-aebe-5e3435c34cf9)
-Cornerlogo_Ver03.json
-Cornerlogo_Ver03_fontsEmbedded.json
+![Cornerlogo](https://github.com/Streamshapers/LottiesForBroadcast/assets/96991719/4afff39e-62c9-4ebf-9086-87c954507f98)
+Cornerlogo_Ver04_fontsEmbedded.json
 
-Try them and tell me what you think 🌞
+Try them and tell us what you think 🌞
