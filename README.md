@@ -1,20 +1,16 @@
 # LottiesForBroadcast
-These are Lottiefiles you can use as templates for CasparCG. Just convert them here: [StreamShapers Converter](https://www.converter.streamshapers.com)
+These are Lottiefiles you can use as HTML graphic templates. Just convert them here: [StreamShapers Ferryman](https://www.ferryman.streamshapers.com)
 They are entirely made in After Effects and exported as json/lottie with Bodymovin.
 They can be used for broadcasting, livestreams, televisison, educational, inspiration, you name it.
 
-After converting the files with the Streamshapers converter to HTML-Templates, you can place them inside CasparCGs Templatefolder and start using them.
+After converting the files with the Streamshapers Ferryman to HTML graphic templates, you can place them inside CasparCGs Templatefolder and start using them.
 
 I used:
 - CasparCG Server 2.3.2
 - After Effects 24.1.0
 - Bodymovin 5.9.0
 
-I can also provide my AE Project Files, just get in contact ❤️
-mail@nico-peters.com
-
-Visit the repository jdoppelp made:
-https://github.com/jdoppelp/CasparCG-Lottie-Template
+If you are interested in the AE project files please visit our [Discord](https://discord.gg/zakVF6QVcv).
 
 # Templates in this repository:
 
